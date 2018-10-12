@@ -178,8 +178,8 @@
 	"PLUGIN__LOADED": "Geladen",
 	"PLUGIN__ERROR_UNINSTALLED": "Das Plugin wurde deinstalliert",
 
-	"CONFIG__GENERAL_PREFERENCES": "General Preferences",
-	"CONFIG__CONDITION_TITLE": "Conditions of use",
+	"CONFIG__GENERAL_PREFERENCES": "Allgemeine Einstellungen",
+	"CONFIG__CONDITION_TITLE": "Nutzungsbedingungen",
 	"CONFIG__CONDITION": "Put the link of the general conditions of use to activate this option. ! Please note, not all themes are compatible and may prevent registration.",
 	"CONFIG__SOCIAL_PREFERENCES": "Social preferences",
         "CONFIG__OTHER_PREFERENCES": "Preferences other",
